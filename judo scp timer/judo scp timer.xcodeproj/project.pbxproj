@@ -11,7 +11,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		614F0AE12EB2DA3A0054B99F /* judo scp timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "judo scp timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		614F0AE12EB2DA3A0054B99F /* Judo Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Judo Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		614F0AE22EB2DA3A0054B99F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				614F0AE12EB2DA3A0054B99F /* judo scp timer.app */,
+				614F0AE12EB2DA3A0054B99F /* Judo Timer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,9 +53,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		614F0AE02EB2DA3A0054B99F /* judo scp timer */ = {
+		614F0AE02EB2DA3A0054B99F /* Judo Timer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 614F0AEC2EB2DA3B0054B99F /* Build configuration list for PBXNativeTarget "judo scp timer" */;
+			buildConfigurationList = 614F0AEC2EB2DA3B0054B99F /* Build configuration list for PBXNativeTarget "Judo Timer" */;
 			buildPhases = (
 				614F0ADD2EB2DA3A0054B99F /* Sources */,
 				614F0ADE2EB2DA3A0054B99F /* Frameworks */,
@@ -68,12 +68,12 @@
 			fileSystemSynchronizedGroups = (
 				614F0AE32EB2DA3A0054B99F /* judo scp timer */,
 			);
-			name = "judo scp timer";
+			name = "Judo Timer";
 			packageProductDependencies = (
 				614F0AF02EB2DA5D0054B99F /* ComposableArchitecture */,
 			);
 			productName = "judo scp timer";
-			productReference = 614F0AE12EB2DA3A0054B99F /* judo scp timer.app */;
+			productReference = 614F0AE12EB2DA3A0054B99F /* Judo Timer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				614F0AE02EB2DA3A0054B99F /* judo scp timer */,
+				614F0AE02EB2DA3A0054B99F /* Judo Timer */,
 			);
 		};
 /* End PBXProject section */
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		614F0AEC2EB2DA3B0054B99F /* Build configuration list for PBXNativeTarget "judo scp timer" */ = {
+		614F0AEC2EB2DA3B0054B99F /* Build configuration list for PBXNativeTarget "Judo Timer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				614F0AED2EB2DA3B0054B99F /* Debug */,
